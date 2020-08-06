@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
 
   spec.files         = Dir['{app}/**/*', '{lib}/**/*', 'README.md']
 
-  spec.required_ruby_version = '>= 2.5.1'
+  spec.required_ruby_version = '>= 2.4.1'
 
   spec.add_dependency 'rails'
 
